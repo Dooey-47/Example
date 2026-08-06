@@ -1,0 +1,12 @@
+{
+  "name": "dac-san-tay-nguyen",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Website giới thiệu đặc sản Tây Nguyên",
+  "scripts": {
+    "start": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
