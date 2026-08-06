@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Cà phê Buôn Ma Thuột",
+    "description": "Cà phê đậm vị, thơm lâu và đặc trưng của Đắk Lắk."
+  },
+  {
+    "id": 2,
+    "name": "Hạt mắc ca",
+    "description": "Hạt béo bùi, giòn nhẹ và giàu dinh dưỡng."
+  },
+  {
+    "id": 3,
+    "name": "Mật ong hoa cà phê",
+    "description": "Mật ong có vị ngọt dịu và hương thơm tự nhiên."
+  },
+  {
+    "id": 4,
+    "name": "Rượu cần",
+    "description": "Thức uống truyền thống gắn với văn hóa Tây Nguyên."
+  },
+  {
+    "id": 5,
+    "name": "Tiêu đen Gia Lai",
+    "description": "Hạt tiêu cay nồng, thơm và chắc hạt."
+  }
+]
